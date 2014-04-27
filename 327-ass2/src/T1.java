@@ -26,7 +26,7 @@ public class T1 extends Thread {
 				
 				if(!AB0turn[2])
 					c1.await();
-				System.out.print(count);
+				System.out.println(count);
 				AB0turn[2]=false;
 				AB0turn[0]=true;
 				cA.signal();

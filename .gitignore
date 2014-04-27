@@ -25,3 +25,5 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
+/327-philosopher/nbproject/private/
+/327-philosopher/build/
